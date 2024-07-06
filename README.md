@@ -1,2 +1,3 @@
-# house_price_prediction
+# House price prediction
+>This model predicts prices of house in bangalore
  
